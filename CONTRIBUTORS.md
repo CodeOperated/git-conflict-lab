@@ -1,2 +1,3 @@
 # Contributors for the project:
-John Github
+*John Github
+*Jose Quevedo
